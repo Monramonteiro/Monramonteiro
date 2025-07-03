@@ -1,6 +1,6 @@
 ## Hello, World! ✌️
 
-<h1 aling="center"> Ramon aqui 🤓</h1>
+<h1> Ramon aqui 🤓</h1>
 
 <p align="center">
 🎨 Desenvolvedor Front-End em formação<br/>
@@ -30,7 +30,7 @@
 | 📊 **Relatório Ambulatorial** | Relatório responsivo com tabela em HTML | [Acessar](https://monramonteiro.github.io/inline-relatorio-ambulatorial/) |
 | 🏠 **Imobiliária Santos** | Site simples com HTML e CSS | [Acessar](https://monramonteiro.github.io/projeto-imobiliaria/) |
 
-> Logo logo terão muitos outros projetos!
+> Logo logo terão muitos outros projetos! 💪
 
 ---
 
