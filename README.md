@@ -3,7 +3,7 @@
 <h1> Ramon aqui 🤓</h1>
 
 <p align="center">
-🎨 Desenvolvedor Front-End em formação<br/>
+👨‍💻 Desenvolvedor Front-End em formação<br/>
 💡 Criativo, curioso e apaixonado por design e interfaces<br/>
 📚 Estudando HTML, CSS, JavaScript e Front-End na <strong>DevMedia</strong><br/>
 🤌 Sempre em busca de novos desafios
