@@ -49,5 +49,6 @@
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-monteiro/)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=purple)](https://www.instagram.com/monramonteiro?igsh=dHRhempkaGJneWR3&utm_source=qr)
 [![E-mail](https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramon.monteiro.88@gmail.com)
 
