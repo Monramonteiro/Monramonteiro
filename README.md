@@ -27,7 +27,7 @@
 | Projeto | Descrição | Link |
 |--------|-----------|------|
 | 💈 **Barbearia Stylus** | Site simples com HTML e CSS | [Acessar](https://monramonteiro.github.io/projeto-barbearia/) |
-| 📊 **Relatório Ambulatorial** | Relatório responsivo com tabela em HTML | [Acessar](https://monramonteiro.github.io/inline-relatorio-ambulatorial/) |
+| 📊 **Relatório Ambulatorial** | Relatório responsivo com tabela em HTML | [Acessar](https://monramonteiro.github.io/relatorio-ambulatorial/) |
 | 🏠 **Imobiliária Santos** | Site simples com HTML e CSS | [Acessar](https://monramonteiro.github.io/projeto-imobiliaria/) |
 
 > Logo logo terão muitos outros projetos! 💪
