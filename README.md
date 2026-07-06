@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://camo.githubusercontent.com/a2232ee5220c300ff41277ffa08414718f9e3a7fcc16eb281864edb16f930e7f/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a304b464231375f4e47545042305857796334425367512e6a706567" alt="Banner do Ramon"/>
+<img src="[https://camo.githubusercontent.com/a2232ee5220c300ff41277ffa08414718f9e3a7fcc16eb281864edb16f930e7f/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a304b464231375f4e47545042305857796334425367512e6a706567](https://www.reddit.com/r/wallpaper/comments/okkzb3/hello_world_python_html_c_3840_x_2160/)" alt="Banner do Ramon"/>
 </p>
 
 ## E aí...
@@ -10,6 +10,7 @@
 👨‍💻 Desenvolvedor Front-End em formação<br/>
 💡 Criativo, curioso e apaixonado por design e interfaces<br/>
 📚 Estudando HTML, CSS, JavaScript na <strong>DevMedia</strong><br/>
+👨‍💻 Cursando Análise e Desenvolimento de Sistemas pela <strong> UVA</strong><br/>
 🤌 Sempre em busca de novos desafios
 </p>
 
